@@ -1,0 +1,452 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Vít Pelčák <vit@pelcak.org>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kspaceduel\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-28 00:16+0000\n"
+"PO-Revision-Date: 2017-09-12 11:45+0100\n"
+"Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Lukáš Tinkl,David Kolibáč"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "lukas@kde.org,david@kolibac.cz"
+
+#: dialogs.cpp:65
+#, kde-format
+msgid "Game speed:"
+msgstr "Rychlost hry:"
+
+#: dialogs.cpp:65
+#, kde-format
+msgid "Shot speed:"
+msgstr "Rychlost střely:"
+
+#: dialogs.cpp:66 dialogs.cpp:69 dialogs.cpp:72 dialogs.cpp:73
+#, kde-format
+msgid "Energy need:"
+msgstr "Potřeba energie:"
+
+#: dialogs.cpp:66 dialogs.cpp:70
+#, kde-format
+msgid "Max number:"
+msgstr "Maximální počet:"
+
+#: dialogs.cpp:67 dialogs.cpp:70
+#, kde-format
+msgid "Damage:"
+msgstr "Poškození:"
+
+#: dialogs.cpp:67 dialogs.cpp:77
+#, kde-format
+msgid "Life time:"
+msgstr "Doba života:"
+
+#: dialogs.cpp:68 dialogs.cpp:71
+#, kde-format
+msgid "Reload time:"
+msgstr "Obnovovací čas:"
+
+#: dialogs.cpp:68
+#, kde-format
+msgid "Mine fuel:"
+msgstr "Palivo min:"
+
+#: dialogs.cpp:69
+#, kde-format
+msgid "Activate time:"
+msgstr "Doba aktivace:"
+
+#: dialogs.cpp:71
+#, kde-format
+msgid "Acceleration:"
+msgstr "Zrychlení:"
+
+#: dialogs.cpp:72
+#, kde-format
+msgid "Rotation speed:"
+msgstr "Rychlost rotace:"
+
+#: dialogs.cpp:73
+#, kde-format
+msgid "Crash damage:"
+msgstr "Poškození po srážce:"
+
+#: dialogs.cpp:74
+#, kde-format
+msgid "Sun energy:"
+msgstr "Sluneční energie:"
+
+#: dialogs.cpp:74
+#, kde-format
+msgid "Gravity:"
+msgstr "Gravitace:"
+
+#: dialogs.cpp:75
+#, kde-format
+msgid "Position X:"
+msgstr "Pozice X:"
+
+#: dialogs.cpp:75
+#, kde-format
+msgid "Position Y:"
+msgstr "Pozice Y:"
+
+#: dialogs.cpp:76
+#, kde-format
+msgid "Velocity X:"
+msgstr "Rychlost X:"
+
+#: dialogs.cpp:76
+#, kde-format
+msgid "Velocity Y:"
+msgstr "Rychlost Y:"
+
+#: dialogs.cpp:77
+#, kde-format
+msgid "Appearance time:"
+msgstr "Čas objevení:"
+
+#: dialogs.cpp:78
+#, kde-format
+msgid "Energy amount:"
+msgstr "Množství energie:"
+
+#: dialogs.cpp:78
+#, kde-format
+msgid "Shield amount:"
+msgstr "Síla štítů:"
+
+#: dialogs.cpp:171
+#, kde-format
+msgctxt "custom values"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: dialogs.cpp:187
+#, kde-format
+msgctxt "general game settings"
+msgid "General"
+msgstr "Obecné"
+
+#: dialogs.cpp:188 structs.h:52
+#, kde-format
+msgid "Bullet"
+msgstr "Kulka"
+
+#: dialogs.cpp:189
+#, kde-format
+msgctxt "Name"
+msgid "Mine"
+msgstr "Mina"
+
+#: dialogs.cpp:190
+#, kde-format
+msgid "Ship"
+msgstr "Loď"
+
+#: dialogs.cpp:191
+#, kde-format
+msgctxt "the star, Sol"
+msgid "Sun"
+msgstr "Slunce"
+
+#: dialogs.cpp:192
+#, kde-format
+msgctxt "initial position and velocities of players"
+msgid "Start"
+msgstr "Start"
+
+#: dialogs.cpp:193
+#, kde-format
+msgid "Powerups"
+msgstr "Vylepšení"
+
+#: dialogs.cpp:406
+#, kde-format
+msgctxt "general settings"
+msgid "General"
+msgstr "Obecné"
+
+#: dialogs.cpp:406
+#, kde-format
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: dialogs.cpp:409
+#, kde-format
+msgctxt "game settings"
+msgid "Game"
+msgstr "Hra"
+
+#: dialogs.cpp:409
+#, kde-format
+msgid "Game Settings"
+msgstr "Nastavení hry"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox3)
+#: general.ui:22
+#, kde-format
+msgid "Hit Points"
+msgstr "Body za zásahy"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: general.ui:42
+#, kde-format
+msgid "Red player:"
+msgstr "Červený hráč:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: general.ui:82
+#, kde-format
+msgid "Blue player:"
+msgstr "Modrý hráč:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox4)
+#: general.ui:117
+#, kde-format
+msgid "Graphics"
+msgstr "Grafika"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: general.ui:129
+#, kde-format
+msgid "Refresh time:"
+msgstr "Obnovovací čas:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#: general.ui:176
+#, kde-format
+msgid "Red Player"
+msgstr "Červený hráč"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Player0IsAi)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Player1IsAi)
+#: general.ui:196 general.ui:299
+#, kde-format
+msgid "Player is AI"
+msgstr "Hráč je UI"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: general.ui:229 general.ui:332
+#, kde-format
+msgid "Difficulty:"
+msgstr "Obtížnost:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty0)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty1)
+#: general.ui:243 general.ui:346
+#, kde-format
+msgid "Trainee"
+msgstr "Začátečník"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty0)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty1)
+#: general.ui:248 general.ui:351
+#, kde-format
+msgid "Normal"
+msgstr "Normální"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty0)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty1)
+#: general.ui:253 general.ui:356
+#, kde-format
+msgid "Hard"
+msgstr "Tvrdý"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty0)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_AiDifficulty1)
+#: general.ui:258 general.ui:361
+#, kde-format
+msgid "Insane"
+msgstr "Šílený"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: general.ui:279
+#, kde-format
+msgid "Blue Player"
+msgstr "Modrý hráč"
+
+#. i18n: ectx: Menu (game)
+#: kspaceduelui.rc:10
+#, kde-format
+msgid "&Game"
+msgstr "&Hra"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kspaceduelui.rc:15
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Hlavní panel nástrojů"
+
+#: main.cpp:26
+#, kde-format
+msgid "KSpaceDuel"
+msgstr "KSpaceDuel"
+
+#: main.cpp:28
+#, kde-format
+msgid "Space Arcade Game"
+msgstr "Vesmírná arkádová hra"
+
+#: main.cpp:30
+#, kde-format
+msgid "(c) 1998-2001, Andreas Zehender"
+msgstr "(c) 1998-2001, Andreas Zehender"
+
+#: main.cpp:33
+#, kde-format
+msgid "Andreas Zehender"
+msgstr "Andreas Zehender"
+
+#: main.cpp:33
+#, kde-format
+msgid "Original Program"
+msgstr "Původní program"
+
+#: main.cpp:34
+#, kde-format
+msgid "Branan Riley"
+msgstr "Branan Riley"
+
+#: main.cpp:34
+#, kde-format
+msgid "SVG Renderer"
+msgstr "SVG Renderer"
+
+#: mainview.cpp:357 topwidget.cpp:155
+#, kde-format
+msgid " paused "
+msgstr " pozastaveno "
+
+#: mainview.cpp:510
+#, kde-format
+msgid "Press %1 to start"
+msgstr "Ke spuštění stiskněte %1"
+
+#: mainview.cpp:559
+#, kde-format
+msgid "draw round"
+msgstr "remíza"
+
+#: mainview.cpp:562
+#, kde-format
+msgid "blue player won the round"
+msgstr "modrý hráč vyhrál kolo"
+
+#: mainview.cpp:570
+#, kde-format
+msgid "red player won the round"
+msgstr "červený hráč vyhrál kolo"
+
+#: mainview.cpp:578
+#, kde-format
+msgid "Press %1 for new round"
+msgstr "Stiskněte %1 k zahájení nového kola"
+
+#: playerinfo.cpp:39 playerinfo.cpp:72
+#, kde-format
+msgid "Hit points"
+msgstr "Zásahy"
+
+#: playerinfo.cpp:42 playerinfo.cpp:75
+#, kde-format
+msgid "Energy"
+msgstr "Energie"
+
+#: playerinfo.cpp:45 playerinfo.cpp:78
+#, kde-format
+msgid "Wins"
+msgstr "Vítězství"
+
+#: structs.h:52
+#, kde-format
+msgid "Default"
+msgstr "Výchozí"
+
+#: structs.h:52
+#, kde-format
+msgid "Chaos"
+msgstr "Chaos"
+
+#: structs.h:52
+#, kde-format
+msgid "Lack of Energy"
+msgstr "Nedostatek energie"
+
+#: topwidget.cpp:84
+#, kde-format
+msgid "&New Round"
+msgstr "&Nové kolo"
+
+#: topwidget.cpp:92
+#, kde-format
+msgctxt "start game"
+msgid "Start"
+msgstr "Spustit"
+
+#: topwidget.cpp:101
+#, kde-format
+msgid "Player 1 Rotate Left"
+msgstr "Rotovat vlevo (hráč 1)"
+
+#: topwidget.cpp:105
+#, kde-format
+msgid "Player 1 Rotate Right"
+msgstr "Rotovat vpravo (hráč 1)"
+
+#: topwidget.cpp:109
+#, kde-format
+msgid "Player 1 Accelerate"
+msgstr "Zrychlení (hráč 1)"
+
+#: topwidget.cpp:113
+#, kde-format
+msgid "Player 1 Shot"
+msgstr "Střelba (hráč 1)"
+
+#: topwidget.cpp:117
+#, kde-format
+msgid "Player 1 Mine"
+msgstr "Mina (hráč 1)"
+
+#: topwidget.cpp:122
+#, kde-format
+msgid "Player 2 Rotate Left"
+msgstr "Rotovat vlevo (hráč 2)"
+
+#: topwidget.cpp:126
+#, kde-format
+msgid "Player 2 Rotate Right"
+msgstr "Rotovat vpravo (hráč 2)"
+
+#: topwidget.cpp:130
+#, kde-format
+msgid "Player 2 Accelerate"
+msgstr "Zrychlení (hráč 2)"
+
+#: topwidget.cpp:134
+#, kde-format
+msgid "Player 2 Shot"
+msgstr "Střelba (hráč 2)"
+
+#: topwidget.cpp:138
+#, kde-format
+msgid "Player 2 Mine"
+msgstr "Mina (hráč 2)"
